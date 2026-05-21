@@ -20,6 +20,12 @@
     "url": "https://codeberg.org/thothorn/modeltools/"
   },
   {
+    "package": "party",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/party/",
+    "subdir": "pkg"
+  },
+  {
     "package": "exactRankTests",
     "oncran": true,
     "url": "https://codeberg.org/thothorn/exactRankTests/"
