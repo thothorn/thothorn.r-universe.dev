@@ -26,6 +26,11 @@
     "subdir": "pkg"
   },
   {
+    "package": "TH.data",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/TH.data/",
+  },
+  {
     "package": "exactRankTests",
     "oncran": true,
     "url": "https://codeberg.org/thothorn/exactRankTests/"
