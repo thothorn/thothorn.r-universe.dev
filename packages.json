@@ -5,6 +5,21 @@
     "url": "https://codeberg.org/thothorn/mvtnorm/"
   },
   {
+    "package": "ipred",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/ipred/"
+  },
+  {
+    "package": "multcomp",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/multcomp/"
+  },
+  {
+    "package": "modeltools",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/modeltools/"
+  },
+  {
     "package": "exactRankTests",
     "oncran": true,
     "url": "https://codeberg.org/thothorn/exactRankTests/"
