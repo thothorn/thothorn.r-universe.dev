@@ -1,0 +1,12 @@
+[
+  {
+    "package": "mvtnorm",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/mvtnorm/"
+  },
+  {
+    "package": "exactRankTests",
+    "oncran": true,
+    "url": "https://codeberg.org/thothorn/exactRankTests/"
+  }
+]
