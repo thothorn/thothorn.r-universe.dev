@@ -28,7 +28,7 @@
   {
     "package": "TH.data",
     "oncran": true,
-    "url": "https://codeberg.org/thothorn/TH.data/",
+    "url": "https://codeberg.org/thothorn/TH.data/"
   },
   {
     "package": "exactRankTests",
