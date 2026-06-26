@@ -51,7 +51,7 @@
     "package": "free1way.docreg",
     "oncran": true,
     "url": "https://codeberg.org/thothorn/coin/",
-    "subdir": "pkg/free1way.docreg"
+    "subdir": "pkg/free1way"
   },
   {
     "package": "ATR",
@@ -63,6 +63,6 @@
     "package": "partykit",
     "oncran": true,
     "url": "https://codeberg.org/thothorn/partykit/",
-    "subdir": "pkg/ATR"
+    "subdir": "pkg/partykit"
   }
 ]
