@@ -52,7 +52,7 @@
     "oncran": true,
     "url": "https://codeberg.org/thothorn/coin/",
     "subdir": "pkg/free1way.docreg"
-  }
+  },
   {
     "package": "ATR",
     "oncran": true,
